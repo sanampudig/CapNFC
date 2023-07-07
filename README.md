@@ -247,13 +247,12 @@ In conclusion, the Near Field Capacitive Communication Transceiver using PSoC 5 
  Postgraduate Student, International Institute of Information Technology, Bangalore  svgkr7@gmail.com
 
 
-## 14. References
+## References
 
 - [1] H. Ishii and B. Ullmer, “Tangible bits: Towards seamless interfaces between people, bits and atoms,” in Proceedings of the ACM SIGCH Conference on Human Factors in Computing Systems, ser. CHI ’97. New York, NY, USA: Association for Computing Machinery, 1997, p.234–241. [Online]. Available: https://doi.org/10.1145/258549.25871
 - [2] T. G. Zimmerman, “Personal area networks: Near-field intrabody com- munication,” IBM Syst. J., vol. 35, pp. 609–617, 1996.
 - [3] T. Vu and M. Gruteser, “Personal touch-identification tokens,” IEEE Pervasive Computing, vol. 12, no. 2, pp. 10–13, Apr. 2013.
-- [4] N.-H. Yu, L.-W. Chan, S.-Y. Lau, S.-S. Tsai, I.-C. Hsiao, D.-J. Tsai, F.-I. Hsiao, L.-P. Cheng, M. Chen, P. Huang, and Y.-P. Hung, “Tuic: Enabling tangible interaction on capacitive multi-touch display,” 05 2011, pp. 2995–
-3004.
+- [4] N.-H. Yu, L.-W. Chan, S.-Y. Lau, S.-S. Tsai, I.-C. Hsiao, D.-J. Tsai, F.-I. Hsiao, L.-P. Cheng, M. Chen, P. Huang, and Y.-P. Hung, “Tuic: Enabling tangible interaction on capacitive multi-touch display,” 05 2011, pp. 2995– 3004.
 - [5] M. I. o. T. . Smith, J. R. Electric Field Imaging. PhD thesis.
 - [6] T. Zimmerman, J. Smith, J. Paradiso, D. Allport, and N. Gershenfeld, “Applying electric field sensing to human-computer interfaces,” 08 1995.
 - [7] T. Grosse-Puppendahl, S. Herber, R. Wimmer, F. Englert, S. Beck, J. von Wilmsdorff, R. Wichert, and A. Kuijper, “Capacitive near-field communication for ubiquitous interaction and perception,” 09 2014.
